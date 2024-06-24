@@ -23,7 +23,7 @@ public class CharacterPieceDatabase : MonoBehaviour
 
     private void Awake()
     {
-        SavedCharactersDirectory = Path.Combine(Application.persistentDataPath, SavedCharactersFolderName);
+        SavedCharactersDirectory = Path.Combine(Directory.GetCurrentDirectory(), SavedCharactersFolderName);
 
         foreach (CharacterTypeSO characterType in CharacterTypes)
         {
