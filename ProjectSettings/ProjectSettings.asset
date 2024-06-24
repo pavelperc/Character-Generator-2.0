@@ -680,11 +680,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 30ec8739-c61f-47e1-a902-df6802a971b9
+  cloudProjectId: 505ecb78-a058-4e0b-9e16-3fc6185f7c03
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: Character Generator 2.0
-  organizationId: legendaryswordsman2021
+  organizationId: pavelperc
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
